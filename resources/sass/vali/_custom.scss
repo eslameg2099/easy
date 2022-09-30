@@ -1,0 +1,25 @@
+@import "~admin-lte/build/scss/pages/e-commerce";
+@import "~bootstrap/scss/button-group";
+.login-content .login-box {
+    min-height: 400px;
+}
+.app-sidebar__user-avatar {
+    width: 48px;
+    height: 48px;
+}
+.img-size-32 {
+    width: 32px;
+}
+.img-circle {
+    border-radius: 50%;
+}
+.index-flag {
+    position: relative;
+    top: 10px;
+    left: 15px;
+}
+.btn-default {
+    background-color: #f8f9fa !important;
+    border-color: #ddd !important;
+    color: #444 !important;
+}

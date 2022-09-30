@@ -1,0 +1,16 @@
+[
+    "manage.supervisors",
+    "manage.customers",
+    "manage.shop_owners",
+    "manage.delegates",
+    "manage.feedback",
+    "manage.settings",
+    "manage.cities",
+    "manage.shops",
+    "manage.categories",
+    "manage.products",
+    "manage.orders",
+    "manage.addresses",
+    "manage.reports",
+    "manage.coupons"
+]

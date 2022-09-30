@@ -1,0 +1,60 @@
+<?php
+
+return [
+    'plural' => 'Shop Owners',
+    'singular' => 'Shop Owner',
+    'empty' => 'There are no shop owners',
+    'select' => 'Select Shop Owner',
+    'permission' => 'Manage Shop Owners',
+    'trashed' => 'Trashed Shop Owners',
+    'perPage' => 'Count Results Per Page',
+    'actions' => [
+        'list' => 'List Shop Owners',
+        'show' => 'Show Shop Owner',
+        'create' => 'Create',
+        'new' => 'New',
+        'edit' => 'Edit Shop Owner',
+        'delete' => 'Delete Shop Owner',
+        'restore' => 'Restore',
+        'forceDelete' => 'Force Delete',
+        'save' => 'Save',
+        'filter' => 'Filter',
+    ],
+    'messages' => [
+        'created' => 'The shop owner has been created successfully.',
+        'updated' => 'The shop owner has been updated successfully.',
+        'deleted' => 'The shop owner has been deleted successfully.',
+        'restored' => 'The shop owner has been restored successfully.',
+    ],
+    'attributes' => [
+        'name' => 'Name',
+        'phone' => 'Phone',
+        'email' => 'Email',
+        'created_at' => 'The Date Of Join',
+        'old_password' => 'Old Password',
+        'password' => 'Password',
+        'password_confirmation' => 'Password Confirmation',
+        'type' => 'User Type',
+        'avatar' => 'Avatar',
+    ],
+    'dialogs' => [
+        'delete' => [
+            'title' => 'Warning !',
+            'info' => 'Are you sure you want to delete the shop owner ?',
+            'confirm' => 'Delete',
+            'cancel' => 'Cancel',
+        ],
+        'restore' => [
+            'title' => 'Warning !',
+            'info' => 'Are you sure you want to restore the shop owner ?',
+            'confirm' => 'Restore',
+            'cancel' => 'Cancel',
+        ],
+        'forceDelete' => [
+            'title' => 'Warning !',
+            'info' => 'Are you sure you want to force delete the shop owner ?',
+            'confirm' => 'Force',
+            'cancel' => 'Cancel',
+        ],
+    ],
+];

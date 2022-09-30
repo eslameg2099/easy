@@ -1,0 +1,16 @@
+{
+    "trashed_admin": "App\\Models\\Admin",
+    "trashed_supervisor": "App\\Models\\Supervisor",
+    "trashed_customer": "App\\Models\\Customer",
+    "trashed_delegate": "App\\Models\\Delegate",
+    "trashed_shop_owner": "App\\Models\\ShopOwner",
+    "trashed_feedback": "App\\Models\\Feedback",
+  
+    "trashed_shop": "App\\Models\\Shop",
+    "trashed_category": "App\\Models\\Category",
+    "trashed_product": "App\\Models\\Product",
+    "trashed_order": "App\\Models\\Order",
+    "trashed_address": "App\\Models\\Address",
+    "trashed_report": "App\\Models\\Report",
+    "trashed_coupon": "App\\Models\\Coupon"
+}

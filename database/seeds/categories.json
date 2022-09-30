@@ -1,0 +1,1065 @@
+[
+    {
+        "name:ar": "اجهزة منزلية",
+        "name:en": "Appliances",
+        "image": "Major-Appliances.jpg",
+        "subcategories": [
+            {
+                "name:ar": "اجهزة كهربائية",
+                "name:en": "Major Appliances",
+                "image": "Major-Appliances.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "تكييفات",
+                        "name:en": "Air Conditioner"
+                    },
+                    {
+                        "name:ar": "غسالات الملابس",
+                        "name:en": "Washing Machines"
+                    },
+                    {
+                        "name:ar": "ثلاجات ومجمدات",
+                        "name:en": "Refrigerators & Freezers"
+                    },
+                    {
+                        "name:ar": "افران وبوتاجازات",
+                        "name:en": "Ovens & Cookers"
+                    },
+                    {
+                        "name:ar": "بيلت ان",
+                        "name:en": "Built-in"
+                    },
+                    {
+                        "name:ar": "غسالات صحون",
+                        "name:en": "Dish Washer"
+                    },
+                    {
+                        "name:ar": "مكانس كهربائية",
+                        "name:en": "Vacuum Cleaners"
+                    }
+                ]
+            },
+            {
+                "name:ar": "الاجهزة المنزلية",
+                "name:en": "Home Appliances",
+                "image": "Home-Appliances.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "منظفات بالبخار",
+                        "name:en": "Steam Cleaners"
+                    },
+                    {
+                        "name:ar": "مكاوي كهربائية",
+                        "name:en": "Irons"
+                    },
+                    {
+                        "name:ar": "مدافئ وسخانات",
+                        "name:en": "Heaters"
+                    },
+                    {
+                        "name:ar": "معالج الهواء",
+                        "name:en": "Air Treatment"
+                    },
+                    {
+                        "name:ar": "مراوح",
+                        "name:en": "Fans"
+                    },
+                    {
+                        "name:ar": "مبردات المياه",
+                        "name:en": "Water Dispenser"
+                    }
+                ]
+            },
+            {
+                "name:ar": "اجهزة تحضير الافطار",
+                "name:en": "Breakfast Appliances",
+                "image": "Breakfast-Appliances.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "ماكينات اعداد القهوة",
+                        "name:en": "Coffee Machines"
+                    },
+                    {
+                        "name:ar": "غلايات",
+                        "name:en": "Kettles"
+                    },
+                    {
+                        "name:ar": "محضرات السندوتشات",
+                        "name:en": "Sandwich Makers"
+                    },
+                    {
+                        "name:ar": "عصارات",
+                        "name:en": "Juicers"
+                    },
+                    {
+                        "name:ar": "اجهزة تحميص",
+                        "name:en": "Toasters"
+                    },
+                    {
+                        "name:ar": "ميكرويف",
+                        "name:en": "Microwaves"
+                    },
+                    {
+                        "name:ar": "مقالي كهربائية",
+                        "name:en": "Fryer"
+                    }
+                ]
+            },
+            {
+                "name:ar": "تحضير الطعام",
+                "name:en": "Food Preparation",
+                "image": "Food-Preparation.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "اجهزة طبخ الارز",
+                        "name:en": "Rice Cooker"
+                    },
+                    {
+                        "name:ar": "مقطعات لحوم كهربائية",
+                        "name:en": "Electric Meat Grinders"
+                    },
+                    {
+                        "name:ar": "اجهزة معالجة الطعام",
+                        "name:en": "Food Processor"
+                    },
+                    {
+                        "name:ar": "محضرات الاطعمة",
+                        "name:en": "Food Preparation"
+                    },
+                    {
+                        "name:ar": "خلاطات",
+                        "name:en": "Blenders & Mixers"
+                    },
+                    {
+                        "name:ar": "اجهوة مطبخ خاصة",
+                        "name:en": "Home Kitchen"
+                    },
+                    {
+                        "name:ar": "اكسسوارات الاجهزة المنزلية",
+                        "name:en": "Appliances Accessories"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name:ar": "المنزل والمطبخ",
+        "name:en": "Home & Kitchen",
+        "image": "Furniture.jpg",
+        "subcategories": [
+            {
+                "name:ar": "الاثاث",
+                "name:en": "Furniture",
+                "image": "Furniture.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "جزامة الاحذية",
+                        "name:en": "Shoes Racks"
+                    },
+                    {
+                        "name:ar": "الأثاث المكتبي",
+                        "name:en": "Office Furniture"
+                    },
+                    {
+                        "name:ar": "منظمات وأدوات تخزين",
+                        "name:en": "Storage & Organization"
+                    },
+                    {
+                        "name:ar": "طاولات",
+                        "name:en": "Tables"
+                    },
+                    {
+                        "name:ar": "الكراسي والمقاعد",
+                        "name:en": "Chairs & benches"
+                    },
+                    {
+                        "name:ar": "مستلزمات غسيل الملابس",
+                        "name:en": "Laundry"
+                    }
+                ]
+            },
+            {
+                "name:ar": "ديكور المنزل",
+                "name:en": "Home Decor",
+                "image": "Home-Decore.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "لوحات فنية",
+                        "name:en": "Drawings Wall Art"
+                    },
+                    {
+                        "name:ar": "ستائر",
+                        "name:en": "Curtains"
+                    },
+                    {
+                        "name:ar": "مطبوعات وملصقات",
+                        "name:en": "Wall Stickers"
+                    },
+                    {
+                        "name:ar": "ساعات ومنبهات",
+                        "name:en": "Clocks"
+                    },
+                    {
+                        "name:ar": "مساند / وسائد للديكور",
+                        "name:en": "Cushions"
+                    },
+                    {
+                        "name:ar": "بُسط وسجاد",
+                        "name:en": "Rugs & Carpets"
+                    }
+                ]
+            },
+            {
+                "name:ar": "المطبخ والمائدة",
+                "name:en": "Kitchen & Dining",
+                "image": "kitchen-dining.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "اواني تقديم الطعام",
+                        "name:en": "Dinnerware & Serveware"
+                    },
+                    {
+                        "name:ar": "معدات الطبخ",
+                        "name:en": "Cookware & Cooking Tools"
+                    },
+                    {
+                        "name:ar": "أدوات ومستلزمات الخبز",
+                        "name:en": "Bakeware & Accessories"
+                    },
+                    {
+                        "name:ar": "أكواب ومستلزمات الشرب",
+                        "name:en": "Drinkware"
+                    },
+                    {
+                        "name:ar": "اكسسوارات المطبخ",
+                        "name:en": "Kitchen Accessories"
+                    },
+                    {
+                        "name:ar": "فلاتر مياه",
+                        "name:en": "Water Filters"
+                    }
+                ]
+            },
+            {
+                "name:ar": "السرير والحمام",
+                "name:en": "Bed & Bath",
+                "image": "Bed-Bath.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "مناشف",
+                        "name:en": "Towels"
+                    },
+                    {
+                        "name:ar": "شاورات ورؤوس استحمام",
+                        "name:en": "Showers & Showerheads"
+                    },
+                    {
+                        "name:ar": "مستلزمات الحمام",
+                        "name:en": "Bathroom Accessories"
+                    },
+                    {
+                        "name:ar": "مراتب",
+                        "name:en": "Matresses"
+                    },
+                    {
+                        "name:ar": "مخدات السرير",
+                        "name:en": "Bed Pillows"
+                    },
+                    {
+                        "name:ar": "مستلزمات النوم",
+                        "name:en": "Bed sheet & Bedding sets"
+                    }
+                ]
+            },
+            {
+                "name:ar": "الحدائق والجنائن",
+                "name:en": "Garden & Outdoor",
+                "image": "garden_outdoor.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "ديكور الحديقة",
+                        "name:en": "Garden Decoration"
+                    },
+                    {
+                        "name:ar": "مستلزمات ري الحديقة",
+                        "name:en": "Gardening / Watering"
+                    },
+                    {
+                        "name:ar": "شوايات وماكنات تدخين الطعام",
+                        "name:en": "Grills & Smokers"
+                    },
+                    {
+                        "name:ar": "أدوات الشوي وملحقاتها",
+                        "name:en": "Grills Accessories"
+                    },
+                    {
+                        "name:ar": "البين باج",
+                        "name:en": "Bean Bags"
+                    },
+                    {
+                        "name:ar": "العناية بالعشب",
+                        "name:en": "lawn Care"
+                    }
+                ]
+            },
+            {
+                "name:ar": "العناية بالمنزل",
+                "name:en": "Home Improvement",
+                "image": "Home-Improvement.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "معدات يدوية",
+                        "name:en": "Hand Tools"
+                    },
+                    {
+                        "name:ar": "ادوات كهربائية",
+                        "name:en": "Power Tools"
+                    },
+                    {
+                        "name:ar": "أدوات قياس وتخطيط",
+                        "name:en": "Measuring & Layout Tools"
+                    },
+                    {
+                        "name:ar": "لوازم الأدوات الكهربائية والالكترونية",
+                        "name:en": "Electrical & Accessories"
+                    },
+                    {
+                        "name:ar": "الطلاء ولوازم الدهان",
+                        "name:en": "Paint & Suppliers"
+                    },
+                    {
+                        "name:ar": "مستلزمات المعدات",
+                        "name:en": "Power / Hand Tools Acc."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name:ar": "الصحة والجمال",
+        "name:en": "Health & Beauty",
+        "image": "perfumes.jpg",
+        "subcategories": [
+            {
+                "name:ar": "العطور",
+                "name:en": "Perfumes | Fragrances",
+                "image": "perfumes.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "عطور للرجال",
+                        "name:en": "Perfumes For Him"
+                    },
+                    {
+                        "name:ar": "عطور للنساء",
+                        "name:en": "Perfumes For Her"
+                    },
+                    {
+                        "name:ar": "عطور للجنسين",
+                        "name:en": "Perfumes Unisex"
+                    },
+                    {
+                        "name:ar": "الأغلى مبيعا",
+                        "name:en": "Best Sellers"
+                    },
+                    {
+                        "name:ar": "عطر الجسد",
+                        "name:en": "Body splash | Body Mist"
+                    },
+                    {
+                        "name:ar": "مجموعة هدايا العطور",
+                        "name:en": "Gift sets"
+                    }
+                ]
+            },
+            {
+                "name:ar": "المكياج",
+                "name:en": "Cosmetics",
+                "image": "cosmetic.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "العيون",
+                        "name:en": "Eyes"
+                    },
+                    {
+                        "name:ar": "الشفاه",
+                        "name:en": "Lips"
+                    },
+                    {
+                        "name:ar": "الوجه",
+                        "name:en": "Face"
+                    },
+                    {
+                        "name:ar": "الاظافر",
+                        "name:en": "Nails"
+                    },
+                    {
+                        "name:ar": "مكياج الخبراء",
+                        "name:en": "Professional Makeup"
+                    },
+                    {
+                        "name:ar": "ادوات الفرش",
+                        "name:en": "Beauty tools"
+                    }
+                ]
+            },
+            {
+                "name:ar": "العناية بالبشرة",
+                "name:en": "Skin care",
+                "image": "skincare.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "كريمات الجسم",
+                        "name:en": "Body Cream"
+                    },
+                    {
+                        "name:ar": "لوشن الجسم",
+                        "name:en": "Body Lotion"
+                    },
+                    {
+                        "name:ar": "كريمات الوجه",
+                        "name:en": "Face Cream"
+                    },
+                    {
+                        "name:ar": "مقاومة تقدم السن",
+                        "name:en": "Anti Aging"
+                    },
+                    {
+                        "name:ar": "العناية المتخصصة بالبشرة",
+                        "name:en": "Professional Skin care"
+                    },
+                    {
+                        "name:ar": "مستخضرات استمرار البشرة والحماية",
+                        "name:en": "Tanning | Sun Protection"
+                    },
+                    {
+                        "name:ar": "الكترونيات التخلص من الشعر",
+                        "name:en": "Electrical Hair Removals"
+                    }
+                ]
+            },
+            {
+                "name:ar": "أجهزة شخصية",
+                "name:en": "Personal Equipments",
+                "image": "p-equipment.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "قياس الوزن",
+                        "name:en": "Personal scales"
+                    },
+                    {
+                        "name:ar": "معدات طبية صغيرة",
+                        "name:en": "Small Medical Equipments"
+                    },
+                    {
+                        "name:ar": "ادوات تدليك",
+                        "name:en": "Body Massagers"
+                    },
+                    {
+                        "name:ar": "مقياس الحرارة الرقمي",
+                        "name:en": "Digital Fever Thermometers"
+                    }
+                ]
+            },
+            {
+                "name:ar": "العناية بالرجال",
+                "name:en": "Men's Grooming",
+                "image": "grooming.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "ماكينات حلاقة وشفرات",
+                        "name:en": "Shavers"
+                    },
+                    {
+                        "name:ar": "الصحة الجنسية",
+                        "name:en": "Sexual Health"
+                    },
+                    {
+                        "name:ar": "مزيلات الروائح ومضادات التعرق",
+                        "name:en": "Deodorants | Antiperspirants"
+                    },
+                    {
+                        "name:ar": "ماكينات كهربائية",
+                        "name:en": "Electrical shavers"
+                    }
+                ]
+            },
+            {
+                "name:ar": "العناية بالشعر",
+                "name:en": "Hair Care",
+                "image": "haircare.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "الكترونيات تصفيف الشعر",
+                        "name:en": "Hair Styling Electronics"
+                    },
+                    {
+                        "name:ar": "اكسسوارات للشعر",
+                        "name:en": "Hair Tools | Accessories"
+                    },
+                    {
+                        "name:ar": "الشامبو والبلسم",
+                        "name:en": "Shampoos | Conditioners"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name:ar": "الكترونيات",
+        "name:en": "Electronics",
+        "display_in_home": true,
+        "image": "Laptop.jpg",
+        "banner": "banners/02.png",
+        "subcategories": [
+            {
+                "name:ar": "كمبيوتر",
+                "name:en": "PCs",
+                "image": "Laptop.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "HP",
+                        "name:en": "HP"
+                    },
+                    {
+                        "name:ar": "Dell",
+                        "name:en": "Dell"
+                    },
+                    {
+                        "name:ar": "Lenovo",
+                        "name:en": "Lenovo"
+                    },
+                    {
+                        "name:ar": "Apple",
+                        "name:en": "Apple"
+                    },
+                    {
+                        "name:ar": "Asus",
+                        "name:en": "Asus"
+                    }
+                ]
+            },
+            {
+                "name:ar": "تلفزيونات",
+                "name:en": "TVs",
+                "image": "Tvs.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "أفضل العروض",
+                        "name:en": "Best Deals"
+                    },
+                    {
+                        "name:ar": "أقل من 2000 جنيه",
+                        "name:en": "Below 2000 EGP"
+                    },
+                    {
+                        "name:ar": "32\"-42\"",
+                        "name:en": "32\"-42\""
+                    },
+                    {
+                        "name:ar": "42 بوصة وأكثر",
+                        "name:en": "42\" & Above"
+                    },
+                    {
+                        "name:ar": "اكسسوارات",
+                        "name:en": "TV Accessories"
+                    }
+                ]
+            },
+            {
+                "name:ar": "الكاميرات",
+                "name:en": "Camera",
+                "image": "Cameras.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "ديجيتال إحترافية",
+                        "name:en": "DSLR"
+                    },
+                    {
+                        "name:ar": "عدسات",
+                        "name:en": "Lens"
+                    },
+                    {
+                        "name:ar": "فلاش",
+                        "name:en": "Flash"
+                    },
+                    {
+                        "name:ar": "كاميرات ديجيتال مدمجة",
+                        "name:en": "Compact"
+                    },
+                    {
+                        "name:ar": "اكسسوارات",
+                        "name:en": "Accessories"
+                    }
+                ]
+            },
+            {
+                "name:ar": "أدوات الكمبيوتر",
+                "name:en": "PC Accessories",
+                "image": "ITacc.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "SanDisk",
+                        "name:en": "SanDisk"
+                    },
+                    {
+                        "name:ar": "Kingston",
+                        "name:en": "Kingston"
+                    },
+                    {
+                        "name:ar": "Microsoft",
+                        "name:en": "Microsoft"
+                    },
+                    {
+                        "name:ar": "Western Digital",
+                        "name:en": "Western Digital"
+                    },
+                    {
+                        "name:ar": "TP Link",
+                        "name:en": "TP Link"
+                    }
+                ]
+            },
+            {
+                "name:ar": "الكترونيات",
+                "name:en": "Electronics",
+                "image": "electronics.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "سماعات",
+                        "name:en": "Headsets"
+                    },
+                    {
+                        "name:ar": "مكبر صوتي",
+                        "name:en": "Speakers"
+                    },
+                    {
+                        "name:ar": "بور بانك",
+                        "name:en": "Powerbanks"
+                    },
+                    {
+                        "name:ar": "اسورة رياضية",
+                        "name:en": "Wearables"
+                    },
+                    {
+                        "name:ar": "كابلات وشواحن",
+                        "name:en": "Cables/Chargers"
+                    }
+                ]
+            },
+            {
+                "name:ar": "Kindle",
+                "name:en": "Kindle",
+                "image": "Kindle.png",
+                "subcategories": [
+                    {
+                        "name:ar": "Kindle الجديد كلياً",
+                        "name:en": "All-new Kindle"
+                    },
+                    {
+                        "name:ar": "Kindle Paperwhite الجديد كلياً",
+                        "name:en": "All-new Kindle Paperwhite"
+                    },
+                    {
+                        "name:ar": "Kindle Oasis الجديد كلياً",
+                        "name:en": "All-new Kindle Oasis"
+                    },
+                    {
+                        "name:ar": "الكتب الإنجليزية",
+                        "name:en": "English Books"
+                    },
+                    {
+                        "name:ar": "الكتب العربية",
+                        "name:en": "Arabic Books"
+                    },
+                    {
+                        "name:ar": "تسوق الكل",
+                        "name:en": "Shop All"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name:ar": "الأمهات والأطفال",
+        "name:en": "Moms & Babies",
+        "image": "bath-ar.jpg",
+        "subcategories": [
+            {
+                "name:ar": "حفاضات",
+                "name:en": "Diapering",
+                "subcategories": [
+                    {
+                        "name:ar": "بامبرز",
+                        "name:en": "pampers"
+                    },
+                    {
+                        "name:ar": "فاين",
+                        "name:en": "Fine"
+                    },
+                    {
+                        "name:ar": "مولفيكس",
+                        "name:en": "Molfix"
+                    },
+                    {
+                        "name:ar": "هيجز",
+                        "name:en": "Huggies"
+                    },
+                    {
+                        "name:ar": "بيبي جوي",
+                        "name:en": "Baby Joy"
+                    }
+                ]
+            },
+            {
+                "name:ar": "معدات أطفال",
+                "name:en": "Baby Gear",
+                "subcategories": [
+                    {
+                        "name:ar": "عربات أطفال",
+                        "name:en": "Strollers"
+                    },
+                    {
+                        "name:ar": "مقاعد السيارة",
+                        "name:en": "Car Seats"
+                    },
+                    {
+                        "name:ar": "مراجيح الاطفال",
+                        "name:en": "Bouncers & swings"
+                    },
+                    {
+                        "name:ar": "سرير الاطفال الرضع",
+                        "name:en": "Cribs & cots"
+                    },
+                    {
+                        "name:ar": "كراسي ومقاعد",
+                        "name:en": "Chairs"
+                    },
+                    {
+                        "name:ar": "مشاية اطفال",
+                        "name:en": "Walkers"
+                    },
+                    {
+                        "name:ar": "مستلزمات السفر",
+                        "name:en": "Travel sets"
+                    }
+                ]
+            },
+            {
+                "name:ar": "ألعاب أطفال واكسسواراتها",
+                "name:en": "Baby & Toddler Toys",
+                "subcategories": []
+            },
+            {
+                "name:ar": "ملابس وأحذية أطفال",
+                "name:en": "Baby Clothing & Shoes",
+                "subcategories": []
+            },
+            {
+                "name:ar": "أطعمة الأطفال",
+                "name:en": "Baby Food",
+                "subcategories": []
+            },
+            {
+                "name:ar": "مستلزمات الام",
+                "name:en": "New Mommy",
+                "subcategories": []
+            },
+            {
+                "name:ar": "تغذية ومستلزمات اطعام",
+                "name:en": "Nursing & feeding",
+                "subcategories": [
+                    {
+                        "name:ar": "زجاجات",
+                        "name:en": "Bottles"
+                    },
+                    {
+                        "name:ar": "اجهزة التغذية",
+                        "name:en": "Electrical Feeding Tools"
+                    },
+                    {
+                        "name:ar": "عضاضات وسكاتات",
+                        "name:en": "Soothers & Teethers"
+                    },
+                    {
+                        "name:ar": "مستلزمات اطعام",
+                        "name:en": "Feeding Tools"
+                    }
+                ]
+            },
+            {
+                "name:ar": "الاستحمام والعناية ببشرة الطفل",
+                "name:en": "Bathing & skin care",
+                "subcategories": [
+                    {
+                        "name:ar": "الاستحمام",
+                        "name:en": "Bathing"
+                    },
+                    {
+                        "name:ar": "العناية ببشرة الطفل",
+                        "name:en": "Skin care"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name:ar": "الألعاب",
+        "name:en": "Toys",
+        "image": "Toys-01.jpg",
+        "subcategories": [
+            {
+                "name:ar": "ألعاب ودمى",
+                "name:en": "Toys & Games",
+                "image": "Toys-01.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "ألعاب ورقية",
+                        "name:en": "Cards & Board Games"
+                    },
+                    {
+                        "name:ar": "عرائس وأكسسوارات",
+                        "name:en": "Dolls & Accessories"
+                    },
+                    {
+                        "name:ar": "ألعاب المطبخ",
+                        "name:en": "Kitchen & Play Sets"
+                    },
+                    {
+                        "name:ar": "ألعاب محشوة",
+                        "name:en": "Stuffed Animals & Soft Toys"
+                    }
+                ]
+            },
+            {
+                "name:ar": "الأنشطة والتسلية",
+                "name:en": "Activities & Amusement",
+                "image": "Toys-02.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "صلصال",
+                        "name:en": "Play Dough"
+                    },
+                    {
+                        "name:ar": "الفنون والحرف",
+                        "name:en": "Art & Crafts"
+                    },
+                    {
+                        "name:ar": "بازل",
+                        "name:en": "Puzzles"
+                    },
+                    {
+                        "name:ar": "ألعاب البناء والتركيب",
+                        "name:en": "Building Sets"
+                    },
+                    {
+                        "name:ar": "ألعاب تعليمية",
+                        "name:en": "Learning & Education"
+                    }
+                ]
+            },
+            {
+                "name:ar": "ألعاب الأكشن",
+                "name:en": "Action Toys",
+                "image": "Toys-03.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "العاب التحكم عن بعد",
+                        "name:en": "Remote Controlled Toys"
+                    },
+                    {
+                        "name:ar": "سيارات ووسائل نقل",
+                        "name:en": "Cars & Vehicles"
+                    },
+                    {
+                        "name:ar": "شخصيات مجسمة",
+                        "name:en": "Action Figures"
+                    },
+                    {
+                        "name:ar": "مسدسات",
+                        "name:en": "Toy Guns"
+                    }
+                ]
+            },
+            {
+                "name:ar": "الأنشطة الخارجية",
+                "name:en": "Outdoor Activities",
+                "image": "Toys-04.jpg",
+                "subcategories": [
+                    {
+                        "name:ar": "سكوترات وعربات الركوب",
+                        "name:en": "Scooters & Ride Ons"
+                    },
+                    {
+                        "name:ar": "ألعاب المناطق الخارجية",
+                        "name:en": "Outdoor Play"
+                    },
+                    {
+                        "name:ar": "حمامات سباحة",
+                        "name:en": "Swimming Pools"
+                    },
+                    {
+                        "name:ar": "ألعاب الشاطئ",
+                        "name:en": "Beach Toys"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name:ar": "رياضة",
+        "name:en": "Sports",
+        "display_in_home": true,
+        "image": "sports20-ar_03.jpg",
+        "banner": "banners/02.png",
+        "subcategories": [
+            {
+                "name:ar": "أوزان واثقال",
+                "name:en": "Strength & Weights",
+                "subcategories": [
+                    {
+                        "name:ar": "دمبل وكيتل بيل",
+                        "name:en": "Dumbells & Kettlebells"
+                    },
+                    {
+                        "name:ar": "أربطة المعصم",
+                        "name:en": "Wrist Bands"
+                    },
+                    {
+                        "name:ar": "أحزمة اللياقة البدنية",
+                        "name:en": "Fitness Belts"
+                    },
+                    {
+                        "name:ar": "قفزات الجيم",
+                        "name:en": "Gym Gloves"
+                    },
+                    {
+                        "name:ar": "حبل القفز",
+                        "name:en": "Jump Ropes"
+                    }
+                ]
+            },
+            {
+                "name:ar": "أجهزة التمرين",
+                "name:en": "Exercise Equipment",
+                "subcategories": [
+                    {
+                        "name:ar": "أجهزة المشي",
+                        "name:en": "Treadmills"
+                    },
+                    {
+                        "name:ar": "دراجات هوائية",
+                        "name:en": "Bikes & Bicycles"
+                    }
+                ]
+            },
+            {
+                "name:ar": "ملابس رياضية للرجال",
+                "name:en": "Men's Sportwear",
+                "subcategories": [
+                    {
+                        "name:ar": "أحذية رياضية للرجال",
+                        "name:en": "Shoes"
+                    },
+                    {
+                        "name:ar": "تيشيرتات",
+                        "name:en": "Tops"
+                    },
+                    {
+                        "name:ar": "بناطيل وشورتات",
+                        "name:en": "Pants & Shorts"
+                    },
+                    {
+                        "name:ar": "ملابس للتمرين",
+                        "name:en": "Training"
+                    },
+                    {
+                        "name:ar": "ملابس للاولاد",
+                        "name:en": "Boys Sportwear"
+                    }
+                ]
+            },
+            {
+                "name:ar": "ملابس رياضية للنساء",
+                "name:en": "Women's Sportwear",
+                "subcategories": [
+                    {
+                        "name:ar": "أحذية رياضية للنساء",
+                        "name:en": "Shoes"
+                    },
+                    {
+                        "name:ar": "تيشيرتات",
+                        "name:en": "Tops"
+                    },
+                    {
+                        "name:ar": "بناطيل وليجنز",
+                        "name:en": "Pants & Leggings"
+                    },
+                    {
+                        "name:ar": "ملابس للتمرين",
+                        "name:en": "Training"
+                    },
+                    {
+                        "name:ar": "حمالات صدر",
+                        "name:en": "Sport Bras"
+                    },
+                    {
+                        "name:ar": "ملابس للبنات",
+                        "name:en": "Girls Sportwear"
+                    }
+                ]
+            },
+            {
+                "name:ar": "تسوق بالرياضة",
+                "name:en": "Shop by Sport",
+                "subcategories": [
+                    {
+                        "name:ar": "كرة قدم",
+                        "name:en": "Foolball"
+                    },
+                    {
+                        "name:ar": "يوغا",
+                        "name:en": "Yoga"
+                    },
+                    {
+                        "name:ar": "تنس",
+                        "name:en": "Tennis"
+                    },
+                    {
+                        "name:ar": "ملاكمة",
+                        "name:en": "Boxing"
+                    },
+                    {
+                        "name:ar": "الصيد",
+                        "name:en": "Fishing & Hunting"
+                    },
+                    {
+                        "name:ar": "الرياضة المائية",
+                        "name:en": "Water Sports"
+                    }
+                ]
+            },
+            {
+                "name:ar": "تسوق بالماركة",
+                "name:en": "Sport by Brand",
+                "subcategories": [
+                    {
+                        "name:ar": "Adidas",
+                        "name:en": "Adidas"
+                    },
+                    {
+                        "name:ar": "Nike",
+                        "name:en": "Nike"
+                    },
+                    {
+                        "name:ar": "Puma",
+                        "name:en": "Puma"
+                    },
+                    {
+                        "name:ar": "Reebok",
+                        "name:en": "Reebok"
+                    }
+                ]
+            }
+        ]
+    }
+]

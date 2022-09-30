@@ -1,0 +1,60 @@
+<?php
+
+return [
+    'singular' => 'Address',
+    'plural' => 'Addresses',
+    'empty' => 'There are no addresses yet.',
+    'count' => 'Addresses Count.',
+    'search' => 'Search',
+    'select' => 'Select Address',
+    'permission' => 'Manage addresses',
+    'trashed' => 'Trashed addresses',
+    'perPage' => 'Results Per Page',
+    'filter' => 'Search for address',
+    'actions' => [
+        'list' => 'List All',
+        'create' => 'Create a new address',
+        'show' => 'Show address',
+        'edit' => 'Edit address',
+        'delete' => 'Delete address',
+        'restore' => 'Restore',
+        'forceDelete' => 'Delete Forever',
+        'options' => 'Options',
+        'save' => 'Save',
+        'filter' => 'Filter',
+    ],
+    'messages' => [
+        'created' => 'The address has been created successfully.',
+        'updated' => 'The address has been updated successfully.',
+        'deleted' => 'The address has been deleted successfully.',
+        'restored' => 'The address has been restored successfully.',
+    ],
+    'attributes' => [
+        'name' => 'Address name',
+        'user_id' => 'User',
+        'city_id' => 'City',
+        'address' => 'Address',
+        'lat' => 'Latitude',
+        'lng' => 'Longitude',
+    ],
+    'dialogs' => [
+        'delete' => [
+            'title' => 'Warning !',
+            'info' => 'Are you sure you want to delete the address ?',
+            'confirm' => 'Delete',
+            'cancel' => 'Cancel',
+        ],
+        'restore' => [
+            'title' => 'Warning !',
+            'info' => 'Are you sure you want to restore the address ?',
+            'confirm' => 'Restore',
+            'cancel' => 'Cancel',
+        ],
+        'forceDelete' => [
+            'title' => 'Warning !',
+            'info' => 'Are you sure you want to delete the address forever ?',
+            'confirm' => 'Delete Forever',
+            'cancel' => 'Cancel',
+        ],
+    ],
+];

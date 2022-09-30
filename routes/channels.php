@@ -1,0 +1,29 @@
+<?php
+
+use App\Models\Shop;
+use \Illuminate\Support\Facades\Broadcast;
+
+/*
+|--------------------------------------------------------------------------
+| Broadcast Channels
+|--------------------------------------------------------------------------
+|
+| Here you may register all of the event broadcasting channels that your
+| application supports. The given channel authorization callbacks are
+| used to check if an authenticated user can listen to the channel.
+|
+*/
+
+Broadcast::channel('user-{id}', function ($user, $id) {
+    if ((int) $user->id === (int) $id) {
+        return $user->getResource();
+    }
+});
+
+Broadcast::channel('shop-{id}', function ($user, $id) {
+    $shop = Shop::find($id);
+
+    if ($shop && $user->is($shop->owner)) {
+        return $user->getResource();
+    }
+});
